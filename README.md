@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afubwa-bot
+- 👋 Hi, I’m @Afubwa
 - 👀 I’m interested in Android progamming 
 - 🌱 I’m currently learning Kotlin 
 - 💞️ I’m looking to collaborate on Kotlin projects 
