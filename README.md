@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afubwa Emmanuel.
-- 👀 Mechanical Technolist | Aspiring Web and Android Developer.
+- 👀 Mechanical Technologist | Aspiring Web and Android Developer.
 - 🌱 I’m currently learning Kotlin , React , HTML/CSS , Node.js
 - 💞️ Looking to collaborate on: beginner-friendly open source, real-world projects 
 - 💡 Passionate about tech, design, teamwork & solving problems 
