@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Afubwa Emmanuel.
 - 👀 Mechanical Technologist | Aspiring Web and Android Developer.
 - 🌱 I’m currently learning React , HTML/CSS , Node.js
-- 💞️ Looking to collaborate on: beginner-friendly open source, real-world projects 
-- 💡 Passionate about tech, design, teamwork & solving problems 
-- 😄 Pronouns: HE/HIM 
+- 💞️ Looking to collaborate on: beginner-friendly open source, real-world projects   
 - ⚡ Fun fact: Ready to learn from you .
   
 
