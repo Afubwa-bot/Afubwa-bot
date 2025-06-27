@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Afubwa Emmanuel.
-- 👀 Mechanical Technologist | Aspiring Web and Android Developer.
-- 🌱 I’m currently learning React , HTML/CSS , Node.js
-- 💞️ Looking to collaborate on: beginner-friendly open source, real-world projects   
-- ⚡ Fun fact: Ready to learn from you .
+- Hi, I’m @Afubwa Emmanuel.
+- Mechanical Technologist.
+- I'm currently deepening my expertise through the ALX ProDev Backend Engineering Program.
+- Python, Django, Django RestFramework, MySQL and PostgreSQL 
+- Looking to collaborate on: beginner-friendly open source, real-world projects   
+- Ready to learn from you .
   
 
 <!---
