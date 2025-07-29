@@ -1,9 +1,5 @@
 - Hi, I’m @Afubwa Emmanuel.
-- Mechanical Technologist.
-- I'm currently deepening my expertise through the ALX ProDev Backend Engineering Program.
-- Python, Django, Django RestFramework, MySQL and PostgreSQL 
-- Looking to collaborate on: beginner-friendly open source, real-world projects   
-- Ready to learn from you .
+  Mechanical Technologist.
   
 
 <!---
